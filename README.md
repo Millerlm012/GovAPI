@@ -18,9 +18,9 @@ I think it would also be cool to actually make it available to the public and fi
 
 Screenshots: I've added screenshots of the API in action below.... <br />
 
-![ScreenShot](govapi-screenshot-1.png)
-![ScreenShot](govapi-screenshot-2.png)
-![ScreenShot](govapi-screenshot-3.png)
-![ScreenShot](govapi-screenshot-4.png)
-![ScreenShot](govapi-screenshot-5.png)
-![ScreenShot](govapi-screenshot-6.png)
+![ScreenShot](govapi-screenshot-1.png) <br />
+![ScreenShot](govapi-screenshot-2.png) <br />
+![ScreenShot](govapi-screenshot-3.png) <br />
+![ScreenShot](govapi-screenshot-4.png) <br />
+![ScreenShot](govapi-screenshot-5.png) <br />
+![ScreenShot](govapi-screenshot-6.png) <br />
