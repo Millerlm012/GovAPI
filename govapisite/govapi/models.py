@@ -15,4 +15,4 @@ class Governor(models.Model):
     coronavirues_Resources = models.CharField(max_length=60, null=True)
 
     def __str__(self):
-        return self.state
+        return str(self.state)
