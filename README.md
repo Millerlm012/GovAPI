@@ -14,6 +14,13 @@ but after much debugging I resolved it by adjusting my return statement on the m
 Final Thoughts & Future Add Ons: Overall I think that this was a good project to continue to learn about the Django web framework, 
 and get my hands dirty with building an API to work with GET / POST / etc. 
 In the future I would like to adjust the API, so users are unable to POST to the database and they can only GET data. 
-I think it would also be cool to actually make it available to the public and find a more permenant hosting solution via: my own homeserver or something like Heroku and Rapid API.
+I think it would also be cool to actually make it available to the public and find a more permenant hosting solution via: my own homeserver or something like Heroku and Rapid API. <br />
 
+Screenshots: I've added screenshots of the API in action below.... <br />
 
+![ScreenShot](govapi-screenshot-1.png)
+![ScreenShot](govapi-screenshot-2.png)
+![ScreenShot](govapi-screenshot-3.png)
+![ScreenShot](govapi-screenshot-4.png)
+![ScreenShot](govapi-screenshot-5.png)
+![ScreenShot](govapi-screenshot-6.png)
