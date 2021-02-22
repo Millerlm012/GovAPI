@@ -16,11 +16,22 @@ and get my hands dirty with building an API to work with GET / POST / etc.
 In the future I would like to adjust the API, so users are unable to POST to the database and they can only GET data. 
 I think it would also be cool to actually make it available to the public and find a more permenant hosting solution via: my own homeserver or something like Heroku and Rapid API. <br />
 
-Screenshots: I've added screenshots of the API in action below.... <br />
+Screenshots: I've added screenshots of the API and the search.py in action below.... <br />
 
+Frontpage of localhost:
 ![ScreenShot](/screenshots/govapi-screenshot-1.png) <br />
+
+Shown when completing GET request:
 ![ScreenShot](/screenshots/govapi-screenshot-2.png) <br />
+
+What is shown if wanting to complete POST request:
 ![ScreenShot](/screenshots/govapi-screenshot-3.png) <br />
+
+Django Admin showing all of the gov. data within database:
 ![ScreenShot](/screenshots/govapi-screenshot-4.png) <br />
+
+Import resource allowing you to import different filetypes into database:
 ![ScreenShot](/screenshots/govapi-screenshot-5.png) <br />
+
+Some code of search.py:
 ![ScreenShot](/screenshots/govapi-screenshot-6.png) <br />
