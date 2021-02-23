@@ -26,6 +26,7 @@ def retrieve_info():
         detail_urls.append(element.get_attribute('href'))
 
     '''
+            CSV File Layout:
             State | Gov. Name | Address | Phone Number | Fax | Media Contact | State-Federal Contact
     '''
 
